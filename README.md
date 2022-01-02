@@ -1,0 +1,2 @@
+# JS30_Calculator_Casio
+JavaScript30Day_ChallengeDay2
